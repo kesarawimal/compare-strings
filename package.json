@@ -1,0 +1,31 @@
+{
+  "name": "compare-strings",
+  "version": "1.0.0",
+  "description": "Finds degree of similarity between two strings, based on Dice's Coefficient and Levenshtein Distance.",
+  "main": "compare-strings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kesarawimal/compare-strings.git"
+  },
+  "keywords": [
+    "strings",
+    "similar",
+    "difference",
+    "similarity",
+    "compare",
+    "comparison",
+    "degree",
+    "match",
+    "matching",
+    "dice",
+    "levenshtein"
+  ],
+  "files": [
+    "compare-strings.js"
+  ],
+  "author": "",
+  "license": "MIT"
+}
